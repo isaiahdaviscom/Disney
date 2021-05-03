@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Disney/stream-app/static/css/main.c2ab31f2.chunk.css",
+    "main.js": "/Disney/stream-app/static/js/main.bcbffaf5.chunk.js",
+    "main.js.map": "/Disney/stream-app/static/js/main.bcbffaf5.chunk.js.map",
+    "runtime-main.js": "/Disney/stream-app/static/js/runtime-main.ca40c576.js",
+    "runtime-main.js.map": "/Disney/stream-app/static/js/runtime-main.ca40c576.js.map",
+    "static/js/2.16fafa16.chunk.js": "/Disney/stream-app/static/js/2.16fafa16.chunk.js",
+    "static/js/2.16fafa16.chunk.js.map": "/Disney/stream-app/static/js/2.16fafa16.chunk.js.map",
+    "index.html": "/Disney/stream-app/index.html",
+    "static/css/main.c2ab31f2.chunk.css.map": "/Disney/stream-app/static/css/main.c2ab31f2.chunk.css.map",
+    "static/js/2.16fafa16.chunk.js.LICENSE.txt": "/Disney/stream-app/static/js/2.16fafa16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca40c576.js",
+    "static/js/2.16fafa16.chunk.js",
+    "static/css/main.c2ab31f2.chunk.css",
+    "static/js/main.bcbffaf5.chunk.js"
+  ]
+}

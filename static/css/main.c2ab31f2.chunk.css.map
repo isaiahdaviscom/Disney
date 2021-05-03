@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CACA,EACE,qBACF,CACA,KACE,wBAAyB,CACzB,aAAc,CACd,mCACF","file":"main.c2ab31f2.chunk.css","sourcesContent":["html {\n  scroll-behavior: smooth;\n}\n* {\n  box-sizing: border-box;\n}\nbody {\n  background-color: #040714;\n  color: #f9f9f9;\n  font-family: Avenir-Roman, sans-serif;\n}"]}

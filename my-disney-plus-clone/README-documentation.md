@@ -1,13 +1,13 @@
-## Contents
+# Contents
 
 - [Contents](#contents)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Learn More](#learn-more)
-- [Deploy](#deploy)
-  - [Netlify](#netlify)
-  - [Vercel (optional)](#vercel-optional)
-- [Troubleshoot](#troubleshoot)
+  - [Installation](#installation)
+  - [Getting Started](#getting-started)
+  - [Learn More](#learn-more)
+  - [Deploy](#deploy)
+    - [Netlify](#netlify)
+    - [Vercel (optional)](#vercel-optional)
+  - [Troubleshoot](#troubleshoot)
 
 ## Installation
 

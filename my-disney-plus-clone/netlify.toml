@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = "disney/disney-clone/.next"
+  publish = "my-disney-plus-clone/.next"
   base = "my-disney-plus-clone"
 # Solution to the problem of nested urls in NextJS on Netlify
 # https://timonweb.com/javascript/how-to-make-nested-urls-in-nextjs-work-properly-on-netlify/

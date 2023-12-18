@@ -1,0 +1,17 @@
+backend:
+  name: github
+  repo: your-username/your-repo   # Replace with your GitHub repository
+
+media_folder: "public/images"
+public_folder: "/images"
+
+collections:
+  - name: "movies"
+    label: "Movies"
+    folder: "content/movies"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Image", name: "image", widget: "image" }

@@ -3,5 +3,5 @@
   publish = ".next"
 # Solution to the problem of nested urls in NextJS on Netlify
 # https://timonweb.com/javascript/how-to-make-nested-urls-in-nextjs-work-properly-on-netlify/
-[build.processing.js]
-  bundle = false
+# [build.processing.js]
+#   bundle = false
